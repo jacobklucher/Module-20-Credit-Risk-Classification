@@ -40,5 +40,5 @@ The analysis involved the following steps:
 
 ## Summary
 
-From the three models, the Support Vector Machine performed the best with the highest accuracy at 99.36% and a high recall percentage for predicting high-risk loans (1). The Random Forest model also performed well, with a moderately high recall value. The Logistic Regression model had a high accuracy but it had the lowest recall for high-risk loans of the three models used.
+From the three models, the Support Vector Machine performed the best with the highest accuracy at 99.36% and a high recall percentage for predicting high-risk loans. The Random Forest model also performed well, with a moderately high recall value. The Logistic Regression model had a high accuracy but it had the lowest recall for high-risk loans of the three models used.
 Considering that the models are predicting loan status outcomes, the most important factor should be identifying loans that are high-risk. This is shown by the recall score for the models. This means that my recommendation would be to use the SVM model as it has a superior recall for high-risk loans compared to the other models at 98% while also maintaining a strong overall accuracy score.
